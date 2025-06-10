@@ -170,8 +170,8 @@ export const defaultThemeConfig = {
         footer: {
             textColor: '#303235',
             text: 'Powered by',
-            company: 'Click AI',
-            companyLink: 'https://ClickAI.live'
+            company: 'Flowise',
+            companyLink: 'https://flowiseai.com'
         }
     }
 }
